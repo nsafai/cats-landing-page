@@ -36,6 +36,11 @@ header {
     background-position: center center;
 }
 
+h4 {
+    color:black;
+    margin-bottom:12px;
+}
+
 .first-section {
     background-color: white;
 }
